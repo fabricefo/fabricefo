@@ -82,13 +82,13 @@
 
 <h3>Blog</h3>
 <a href="https://fabricefo.github.io/cloud">
-  <img src="https://fabricefo.github.io/cloud.jpeg" width=100 alt="Quelle infrastructure cloud ?"/>Quelle infrastructure cloud ?
+  <img src="https://fabricefo.github.io/assets/images/quelle-infrastructure-cloud.jpg" width=100 alt="Quelle infrastructure cloud ?"/>Quelle infrastructure cloud ?
 </a> 
 <a href="https://fabricefo.github.io/internal-developer-platform">
-  <img src="https://fabricefo.github.io/internal-developer-platform.jpeg" width=100 alt="Internal Developer Platform"/>Internal Developer Platform
+  <img src="https://fabricefo.github.io/assets/images/internal-developer-platform.jpg" width=100 alt="Internal Developer Platform"/>Internal Developer Platform
 </a> 
 <a href="https://fabricefo.github.io/sql-agent">
-  <img src="https://fabricefo.github.io/sql-agent.jpg" width=100 alt="Agent AI SQL"/>Agent AI SQL
+  <img src="https://fabricefo.github.io/assets/images/3.jpg" width=100 alt="Agent AI SQL"/>Agent AI SQL
 </a> 
 
 ###
