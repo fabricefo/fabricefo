@@ -80,5 +80,17 @@
 
 <br clear="both">
 
+<h3>Blog</h3>
+<a href="https://fabricefo.github.io/cloud">
+  <img src="https://github-readme-blog-cards.onrender.com?url=https://fabricefo.github.io/cloud&layout=vertical&theme=default" alt="Quelle infrastructure cloud ?"/>
+</a> 
+
+<a href="https://fabricefo.github.io/internal-developer-platform">
+  <img src="https://github-readme-blog-cards.onrender.com?url=https://fabricefo.github.io/internal-developer-platform&layout=vertical&theme=default" alt="Internal Developer Platform"/>
+</a> 
+<a href="https://fabricefo.github.io/sql-agent">
+  <img src="https://github-readme-blog-cards.onrender.com?url=https://fabricefo.github.io/sql-agentlayout=vertical&theme=default" alt="Agent AI SQL"/>
+</a> 
+
 ###
 
